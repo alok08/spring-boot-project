@@ -1,0 +1,11 @@
+com\example\product\repository\ProductRepository.class
+com\example\product\service\impl\ProductServiceImpl.class
+com\example\product\service\ProductService.class
+com\example\category\service\CategoryService.class
+com\example\product\entity\Product.class
+com\example\MavenTrainingApplication.class
+com\example\category\controller\CategoryController.class
+com\example\category\service\Impl\CategoryServiceImpl.class
+com\example\category\entity\Category.class
+com\example\product\controller\ProductController.class
+com\example\category\repository\CategoryRepository.class
